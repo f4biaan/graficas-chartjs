@@ -2,3 +2,8 @@
 html, body {
   width: 1000px;
 }
+
+a {
+  text-decoration: none;
+  color: rgb(54, 41, 41);
+}
